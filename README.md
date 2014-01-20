@@ -1,4 +1,4 @@
-bash-prompt.sh
+awesome_bash_prompt.sh
 ===========
 
 Because it's the future and we have color screens and fast processors. I will not waste time and effort wondering  
