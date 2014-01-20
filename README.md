@@ -1,9 +1,9 @@
 bash-prompt.sh
 ===========
 
-Because it's the future and we have color screens and fast processors. I will not waste time and effort  
+Because it's the future and we have color screens and fast processors. I will not waste time and effort wondering  
 
- - wondering what machine I'm on
+ - what machine I'm on
  - what user i am
  - what my current path is
  - whether the last command was successful
